@@ -1,3 +1,0 @@
-/cygdrive/d/Development/demoscene/opengl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/d/Development/demoscene/opengl/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/d/Development/demoscene/opengl/cmake-build-debug/CMakeFiles/opengl.dir
